@@ -21,12 +21,23 @@
 // a /= 5;
 // console.log("Value after division is",a)
 
-// Relational Operators
-let x = 5;
-let y = 20;
-let z = 5;
-let a = 10;
-console.log("x < z",x < z);
-console.log("y > z",y < z);
-console.log("x =< z",x <=z);
-console.log("x >= a",x >= a);
+// // Relational Operators
+// let x = 5;
+// let y = 20;
+// let z = 5;
+// let a = 10;
+// console.log("x < z",x < z);
+// console.log("y > z",y < z);
+// console.log("x =< z",x <=z);
+// console.log("x >= a",x >= a);
+
+
+// Special Number
+console.log(undefined / null )
+console.log(+0);
+console.log(-0);
+console.log(NaN);
+console.log(Infinity);
+console.log(-Infinity);
+
+console.log(10 > Infinity)

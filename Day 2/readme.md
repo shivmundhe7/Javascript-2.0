@@ -25,7 +25,7 @@ let x = 5;
 x += 2; // x = 7
 console.log(x);
 
-// Logical
+// Logical Operators
 let isTrue = true, isFalse = false;
 console.log(isTrue && isFalse); // false
 console.log(isTrue || isFalse); // true
