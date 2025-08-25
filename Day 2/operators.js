@@ -41,3 +41,43 @@
 // console.log(-Infinity);
 
 // console.log(10 > Infinity)
+
+// Incerement Operator
+
+
+// Unary Operator
+// let x ="22";
+// let y =+x;
+// console.log(typeof y)
+
+
+// More Unary Operator
+// let x = "22";
+// let y = -x;
+// console.log(typeof y);
+// console.log(y)
+
+// Ternary Operator
+// let y = ((10>5) ?(10) : (7));
+// console.log(y);
+
+// let x = ((10<5) ? (10) : (7));
+// console.log(x);
+
+// let z = ((true) ? (2+3) : (2-3));
+// console.log(z);
+
+
+
+// If Else VS ternary Operator
+let y = ((10>5) ?(10) : (7));
+console.log(y);
+
+let x = ((10<5) ? (10) : (7));
+console.log(x);
+
+let z = ((true) ? (2+3) : (2-3));
+console.log(z);
+ let c = 10;
+ let b = ((3<1) ? (2-3) : (++c))
+ console.log(b);
