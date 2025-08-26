@@ -5,6 +5,7 @@ switch(name){
         console.log("Working at phonepe");
         break;
 
+        
         case "Sanket":
             console.log("Working at google");
             break;
